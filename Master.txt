@@ -1,1 +1,2 @@
 Safe code for release.
+added teradata.
