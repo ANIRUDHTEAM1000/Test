@@ -1,2 +1,2 @@
-Safe code for release.
+Safe code for release
 added teradata.
